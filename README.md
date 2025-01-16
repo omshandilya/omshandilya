@@ -32,17 +32,13 @@ Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicate
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OmShandilya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&custom_title=My%20GitHub%20Stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmShandilya&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmShandilya&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 - **Email:** omshandilya.work@gmail.com  
-- **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/om-shandilya/)  
+- **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/om-shandilya/)                                  
 - **GitHub:** [OmShandilya](https://github.com/omshandilya)  
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
