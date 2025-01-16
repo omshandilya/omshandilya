@@ -1,4 +1,4 @@
-#![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=300&color=00FF00&width=435&lines=Hi%2C+there...;My+name+is+Om+Shandilya.;Welcome+to+my+profile!)
+# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=300&color=00FF00&width=435&lines=Hi%2C+there...;My+name+is+Om+Shandilya.;Welcome+to+my+profile!)
 
 Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicated **Full Stack Application Developer** specializing in **Flutter** and **Spring Boot**. I create efficient, scalable, and user-friendly applications, combining modern design principles with robust backend solutions.
 
@@ -30,23 +30,6 @@ Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicate
 - CI/CD Pipelines
 
 ---
-
-## 🚀 Projects
-
-### 1. **[Project Name]**
-   - 🔗 [Link to Repository](#)
-   - 🌟 Description: Brief overview of the project and its purpose.
-   - 🛠️ Tech Stack: Flutter, Spring Boot, MySQL
-
-### 2. **[Project Name]**
-   - 🔗 [Link to Repository](#)
-   - 🌟 Description: Brief overview of the project and its purpose.
-   - 🛠️ Tech Stack: Flutter, Spring Boot, MongoDB
-
-*(Add more projects as applicable)*
-
----
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OmShandilya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&custom_title=My%20GitHub%20Stats)
@@ -59,8 +42,8 @@ Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicate
 
 ## 📫 Contact Me
 - **Email:** omshandilya@example.com  
-- **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/omshandilya/)  
-- **GitHub:** [OmShandilya](https://github.com/OmShandilya)  
+- **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/om-shandilya/)  
+- **GitHub:** [OmShandilya](https://github.com/omshandilya)  
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 
