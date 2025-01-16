@@ -1,4 +1,4 @@
-# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=500&color=00FF00&width=435&lines=Hi%2C+there...;My+name+is+Om+Shandilya.;Welcome+to+my+repository!)
+# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=500&color=00FF00&width=435&lines=Hi%2C+there...;My+name+is+Om+Shandilya.;Welcome+to+my+profile!)
 
 Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicated **Full Stack Application Developer** specializing in **Flutter** and **Spring Boot**. I create efficient, scalable, and user-friendly applications, combining modern design principles with robust backend solutions.
 
