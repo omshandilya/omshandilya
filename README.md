@@ -27,23 +27,6 @@ Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicate
 ### Other Tools:
 - REST APIs
 - Version Control: Git & GitHub
-- CI/CD Pipelines
-
----
-
-## 🚀 Projects
-
-### 1. **[Project Name]**
-   - 🔗 [Link to Repository](#)
-   - 🌟 Description: Brief overview of the project and its purpose.
-   - 🛠️ Tech Stack: Flutter, Spring Boot, MySQL
-
-### 2. **[Project Name]**
-   - 🔗 [Link to Repository](#)
-   - 🌟 Description: Brief overview of the project and its purpose.
-   - 🛠️ Tech Stack: Flutter, Spring Boot, MongoDB
-
-*(Add more projects as applicable)*
 
 ---
 
@@ -58,9 +41,9 @@ Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicate
 ---
 
 ## 📫 Contact Me
-- **Email:** omshandilya@example.com  
-- **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/omshandilya/)  
-- **GitHub:** [OmShandilya](https://github.com/OmShandilya)  
+- **Email:** omshandilya.work@gmail.com  
+- **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/om-shandilya/)  
+- **GitHub:** [OmShandilya](https://github.com/omshandilya)  
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 
