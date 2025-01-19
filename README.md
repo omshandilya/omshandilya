@@ -41,7 +41,7 @@ Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicate
 ---
 
 ## 📫 Contact Me
-- **Email:** omshandilya@example.com  
+- **Email:** omshandilya8888@gmail.com  
 - **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/om-shandilya/)  
 - **GitHub:** [OmShandilya](https://github.com/omshandilya)  
 
