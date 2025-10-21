@@ -1,65 +1,82 @@
-# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=300&color=00FF00&width=435&lines=Hi%2C+there...;My+name+is+Om+Shandilya.;Welcome+to+my+profile!)
+# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=300&color=00FF00&width=435&lines=Hi%2C+there...;I'm+Om+Shandilya.;Welcome+to+my+GitHub+profile!)
 
-Welcome to my GitHub portfolio! I am **Om Shandilya**, a passionate and dedicated **Full Stack Application Developer** specializing in **Flutter** and **Spring Boot**. I create efficient, scalable, and user-friendly applications, combining modern design principles with robust backend solutions.
-
----
-
-## 👨‍💻 About Me
-- 🌟 Full-stack expertise in **Flutter** (frontend) and **Spring Boot** (backend).
-- 🎯 Committed to delivering high-quality, scalable, and maintainable applications.
-- 🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech world.
-- 💡 Enthusiastic about solving complex problems with innovative solutions.
+Welcome to my GitHub 👋  
+I’m **Om Shandilya**, a passionate **AI & Backend Developer** exploring the intersection of **Retrieval-Augmented Generation (RAG)**, **LLMs**, and **intelligent system design**.  
+I love building scalable applications that combine strong backend architecture with applied AI to solve real-world problems.
 
 ---
 
-## 🛠️ Technical Skills
-
-### Frontend:
-- **Languages:** Dart
-- **Frameworks:** Flutter
-- **Design:** Responsive Design, Material Design, Widget-based UI
-
-### Backend:
-- **Languages:** Java
-- **Frameworks:** Spring Boot, Hibernate
-- **Database:** MySQL, PostgreSQL, MongoDB
-
-### Other Tools:
-- REST APIs
-- Version Control: Git & GitHub
-- CI/CD Pipelines
+## 👨‍💻 About Me  
+- 🤖 **AI & Backend Developer** — skilled in building hybrid AI systems using **RAG, NLP, and multimodal reasoning**.  
+- 🧠 Experienced with **Neo4j**, **Pinecone**, **LangChain**, and **LlamaIndex** for contextual knowledge retrieval.  
+- 💻 Previously developed full-stack solutions using **Flutter**, **Django**, and **Spring Boot**.  
+- 🚀 Passionate about transforming prototypes into production-grade systems — from data ingestion to model integration.  
+- 📚 Constantly learning about **vector databases**, **knowledge graphs**, and **AI-driven automation**.  
 
 ---
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OmShandilya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&custom_title=My%20GitHub%20Stats)
+## 🧠 Featured AI Projects  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmShandilya&layout=compact&theme=radical&langs_count=8)
+### 🔹 [AI Interview Feedback Analyzer](https://github.com/omshandilya/interview-feedback-ai)  
+*Django + Flutter + Whisper + OpenRouter*  
+- Built a full-stack AI feedback system that records, transcribes, and evaluates interview answers.  
+- Used **Whisper** for audio-to-text transcription and **LLMs** for semantic & linguistic feedback.  
+- Implemented JWT authentication, multi-user session tracking, and detailed feedback analytics.  
 
+---
+
+### 🔹 [Hybrid RAG Pipeline – Vietnam Travel Assistant](https://github.com/omshandilya/vietnam-travel-rag)  
+*Neo4j + Pinecone + OpenAI + LangChain*  
+- Developed a hybrid retrieval pipeline combining **graph-based context** and **vector-based semantic search**.  
+- Integrated **Neo4j** for relationship reasoning and **Pinecone** for embedding retrieval.  
+- Added async optimization, caching, and structured prompting for performance and coherence.  
+
+---
+
+### 🔹 [RAG Automation System – CRIS Internship]  
+*LlamaIndex + Milvus + LangChain*  
+- Designed and deployed a **document intelligence system** for automating railway billing workflows.  
+- Extracted and chunked unstructured data, stored embeddings in **Milvus**, and built contextual retrieval using **LangChain**.  
+- Improved query precision and system efficiency through embedding optimization.  
+
+---
+
+## 🛠️ Technical Skills  
+
+### **Core Expertise**
+- Retrieval-Augmented Generation (RAG)  
+- Large Language Models (LLMs)  
+- Vector Databases: Pinecone, Milvus  
+- Graph Databases: Neo4j  
+- LangChain, LlamaIndex  
+- NLP & Conversational AI  
+
+### **Backend & Full Stack**
+- Django, Spring Boot, Flutter  
+- RESTful APIs, Authentication, Scalability  
+- PostgreSQL, MySQL, SQLite  
+- Docker, Kubernetes, CI/CD  
+
+### **Programming Languages**
+- Python | Java | C++ | Dart | SQL  
+
+---
+
+## 📈 GitHub Stats  
+
+![Om’s GitHub stats](https://github-readme-stats.vercel.app/api?username=OmShandilya&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmShandilya&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmShandilya&theme=radical)
 
 ---
 
-## 📫 Contact Me
-- **Email:** omshandilya8888@gmail.com  
-- **LinkedIn:** [Om Shandilya](https://www.linkedin.com/in/om-shandilya/)  
-- **GitHub:** [OmShandilya](https://github.com/omshandilya)  
+## 🌍 Connect With Me  
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
+📧 **Email:** [omshandilya.work@gmail.com](mailto:omshandilya.work@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/om-shandilya](https://www.linkedin.com/in/om-shandilya/)  
+💻 **GitHub:** [github.com/omshandilya](https://github.com/omshandilya)  
 
+---
 
+> *"I believe the next leap in AI isn’t just about larger models — it’s about smarter systems that combine reasoning, retrieval, and real-world understanding."*  
 
-<!--
-**omshandilya/omshandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
