@@ -33,8 +33,8 @@ I love building scalable applications that combine strong backend architecture w
 
 ---
 
-### 🔹 [RAG Automation System – CRIS Internship]  
-*LlamaIndex + Milvus + LangChain*  
+### 🔹RAG Automation System  
+*LlamaIndex + ChromaDB + LangChain*  
 - Designed and deployed a **document intelligence system** for automating railway billing workflows.  
 - Extracted and chunked unstructured data, stored embeddings in **Milvus**, and built contextual retrieval using **LangChain**.  
 - Improved query precision and system efficiency through embedding optimization.  
